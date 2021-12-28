@@ -22,8 +22,6 @@ Listen to your favorite music while you browse world-famous artwork from the Met
 * Metropolitan Museum of Art API
 * MixCloud API
 
-## Screenshot
-[Screenshot](assets/images/live-screenshot.png)
 
 ## Live Website
 https://surferstef.github.io/music-match
