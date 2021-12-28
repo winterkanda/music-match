@@ -1,4 +1,3 @@
-# music-match-project-one
 
 # ArtWalkman
 
